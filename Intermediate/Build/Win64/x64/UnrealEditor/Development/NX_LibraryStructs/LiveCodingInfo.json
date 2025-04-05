@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NX_LibraryStructs.cpp.obj": [
+			"FunctionLibraryStructs.gen.cpp.obj",
+			"LibraryStructs.gen.cpp.obj",
+			"NX_LibraryStructs.init.gen.cpp.obj",
+			"FunctionLibraryStructs.cpp.obj",
+			"NX_LibraryStructs.cpp.obj",
+			"LibraryStructs.cpp.obj"
+		]
+	}
+}

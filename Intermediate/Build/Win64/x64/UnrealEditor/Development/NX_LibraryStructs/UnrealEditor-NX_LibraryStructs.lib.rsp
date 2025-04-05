@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NX_LibraryStructs.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Intermediate\Build\Win64\x64\PMEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Plugins\NX_LibraryStructs\Intermediate\Build\Win64\x64\UnrealEditor\Development\NX_LibraryStructs\Module.NX_LibraryStructs.cpp.obj"
+"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Plugins\NX_LibraryStructs\Intermediate\Build\Win64\x64\UnrealEditor\Development\NX_LibraryStructs\FunctionLibraryStructs.cpp.obj"
+"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Plugins\NX_LibraryStructs\Intermediate\Build\Win64\x64\UnrealEditor\Development\NX_LibraryStructs\NX_LibraryStructs.cpp.obj"
+"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Plugins\NX_LibraryStructs\Intermediate\Build\Win64\x64\UnrealEditor\Development\NX_LibraryStructs\LibraryStructs.cpp.obj"
+"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Plugins\NX_LibraryStructs\Intermediate\Build\Win64\x64\UnrealEditor\Development\NX_LibraryStructs\Default.rc2.res"
+/OUT:"D:\Data\Informatics\UE\MyProject\InventoryReferenced\Plugins\NX_LibraryStructs\Intermediate\Build\Win64\x64\UnrealEditor\Development\NX_LibraryStructs\UnrealEditor-NX_LibraryStructs.lib"

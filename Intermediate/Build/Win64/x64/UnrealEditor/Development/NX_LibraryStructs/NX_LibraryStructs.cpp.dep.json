@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\data\\informatics\\ue\\myproject\\inventoryreferenced\\plugins\\nx_librarystructs\\source\\nx_librarystructs\\private\\nx_librarystructs.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\data\\informatics\\ue\\myproject\\inventoryreferenced\\intermediate\\build\\win64\\x64\\pmeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "d:\\data\\informatics\\ue\\myproject\\inventoryreferenced\\plugins\\nx_librarystructs\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nx_librarystructs\\definitions.nx_librarystructs.h",
+            "d:\\data\\informatics\\ue\\myproject\\inventoryreferenced\\plugins\\nx_librarystructs\\source\\nx_librarystructs\\public\\nx_librarystructs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
